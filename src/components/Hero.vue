@@ -1,7 +1,6 @@
 <template>
 	<div class="hero outer-container">
         <div class="inner-container">
-		<!-- <Header> </Header> -->
 		<h2>
 			<span>visit mobileye</span> at ces 2019!
 		</h2>
@@ -15,7 +14,6 @@
 				<p>Come hear about the state of our autonomous driving program and how the latest AD and
 					ADAS technologies are being delivered globally. Space is limited – register now!
 				</p>
-                <!-- <hr/> -->
 				<p>Tuesday, January 8th at 11am PST | LVCC Room S228 </p>
 			</div>
 		</div>

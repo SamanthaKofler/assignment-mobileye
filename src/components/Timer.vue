@@ -5,7 +5,6 @@
             <p><span>{{convertToStr(diffMins)}}</span> minutes </p>
             <p><span>{{convertToStr(diffSecs)}}</span> seconds</p>
 	</div>
-
 </template>
 
 <script>

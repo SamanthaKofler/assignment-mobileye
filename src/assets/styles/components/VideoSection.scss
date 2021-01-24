@@ -4,6 +4,7 @@
         align-items: center;
         padding: 20px;
         flex-wrap: wrap;
+        color: white;
         @media (max-width: 900px) {
             padding: 20px 0;
         }
@@ -16,8 +17,6 @@
                 margin-bottom: 20px;
             }
         }
-
-        color: white;
         .video-txt-container {
             width: 50%;
             padding-left: 10px;
@@ -34,7 +33,6 @@
                 font-weight: 300;
                 font-size: rem(30px);
                 margin-bottom: 10px;
-                
             }
             button {
                 background-color: $clr1;
@@ -50,7 +48,6 @@
                     align-self: center;
                 }
             }
-
         }
     }
 }
