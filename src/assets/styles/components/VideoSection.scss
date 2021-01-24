@@ -1,5 +1,6 @@
 .video-section {
     background-color: $dark;
+    width: 100vw;
     .video-container {
         align-items: center;
         padding: 20px;
@@ -7,6 +8,7 @@
         color: white;
         @media (max-width: 900px) {
             padding: 20px 0;
+            width: 100vw;
         }
         .video {
             align-items: center;
