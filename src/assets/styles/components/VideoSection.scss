@@ -17,6 +17,9 @@
                 justify-content: center;
                 margin-bottom: 20px;
             }
+            @media (max-width: 430px) {
+                width: 220px;
+            }
         }
         .video-txt-container {
             width: 50%;
